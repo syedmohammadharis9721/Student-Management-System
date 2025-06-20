@@ -39,8 +39,7 @@ The **Student Management System** is a modular, console-based Java application t
 - Abstraction and modular class design
 
 ---
-# Clone repository
-git clone https://github.com/MunaifHussain/student-management-system.git
+
 
 # Import to IntelliJ
 1. Open as Maven project
@@ -63,17 +62,7 @@ git clone https://github.com/MunaifHussain/student-management-system.git
 - Reporting & analytics module
 
 ---
-src/
-└── Student_Management_System/
-    ├── Main.java            # Entry point
-    ├── Admin.java           # Admin operations
-    ├── Course.java          # Course management
-    ├── Exam.java            # Exam logic
-    │   └── Question.java    # Nested question class
-    ├── Student.java         # Student operations
-    ├── User.java            # Base user class
-    ├── Result.java          # Result handling
-    └── resources/           # Data files
+
 
 ## 🔧 How to Run
 
